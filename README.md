@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges">
-  <a href="https://linkedin.com/in/atfdeenk" target="_blank">
+  <a href="https://linkedin.com/in/atfdeenk">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="https://facebook.com/https://www.facebook.com/michael.limabelas">
